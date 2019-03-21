@@ -1,4 +1,5 @@
 # Git チュートリアル
 
- -feather-A
+ -feature-A
  - fix-B
+ -feature-C
